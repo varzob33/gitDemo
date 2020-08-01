@@ -3,7 +3,7 @@ public class Book_a_Room {
         System.out.println("No rooms available ");
 
         // my code from IntelIJ, hi GitHub
-
+ //  everything is not so bad
     }
 
 }
